@@ -1,0 +1,1 @@
+ Motor Driver Circuit using the DRV8833 dual H-bridge driver IC in KiCad, an open-source software suite for Electronic Design Automation (EDA). This project is ideal for anyone looking to control DC motors in their embedded systems and robotics projects while enhancing their PCB design skills.
